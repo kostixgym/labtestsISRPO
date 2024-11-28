@@ -33,4 +33,8 @@ def area(a):
     
 def perimeter(a):
     return 4 * a
+
+
+if __name__ == "__main__":
+    unittest.main()
   

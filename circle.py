@@ -35,3 +35,7 @@ def perimeter(r):
     return 2 * math.pi * r
 
 
+if __name__ == "__main__":
+    unittest.main()
+
+
